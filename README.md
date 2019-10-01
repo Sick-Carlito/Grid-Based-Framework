@@ -10,7 +10,7 @@ This is the eight project of the Main HTML/CSS curriculum at [Microverse](https:
 
 #### How to use
 
-The Project uses the media query (break-point) with `min-width: 576px`, `min-width: 768px`, `min-width 992px`  and `min-width 1024px` and the prefix -xs, -sm, md and -lg was used for the class names respectiely.
+The Project uses the media query (break-point) with `min-width: 576px`, `min-width: 768px`, `min-width 992px`  and `min-width 1024px` and the prefix -xs, -sm, -md and -lg was used for the class names respectiely.
 
 The grid system was developed using CSS Flex-box properties.
 
