@@ -36,8 +36,20 @@ body {
   width: 100%;
 }
 
+p {
+  color: rgba(74, 74, 74, 0.7);
+  font-size: 1.125rem;
+  letter-spacing: 0.2px;
+}
+
 a {
   text-decoration: none;
+  color: #4a4a4a;
+}
+
+h4 {
+  font-size: 1.125rem;
+  letter-spacing: 0.2px;
   color: #4a4a4a;
 }
 
@@ -84,6 +96,185 @@ a {
 
 .menu-list a:hover {
   color: #000;
+}
+
+.head-text {
+  padding-bottom: 3.75rem;
+}
+
+.head-text h1 {
+  color: #cc9543;
+  margin-bottom: 0;
+  padding-bottom: 1.875rem;
+  font-size: 2.25rem;
+  font-weight: 300;
+  letter-spacing: 0.4px;
+}
+
+.head-text h4 {
+  padding-bottom: 4.375rem;
+  color: rgba(74, 74, 74, 0.7);
+  font-size: 1.125rem;
+  letter-spacing: 0.2px;
+}
+
+.button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #6abfc3;
+  border-radius: 0.2em;
+  box-shadow: 0 0.05em 0.25em 0 rgba(0, 0, 0, 0.5);
+  padding: 1rem 3rem;
+  font-weight: bold;
+  letter-spacing: 0.2px;
+}
+
+.how-it-works {
+  min-height: 400px;
+  padding-top: 100px;
+  margin-bottom: 70px;
+  font-weight: bold;
+}
+
+.how-it-works .title {
+  margin: 0 auto;
+  max-width: 600px;
+  margin-bottom: 100px;
+}
+
+.how-it-works .title h2 {
+  margin-bottom: 36px;
+}
+
+.how-it-works p {
+  padding-top: 1em;
+  line-height: 1.88;
+}
+
+.how-it-works .tiles {
+  margin: 0 auto;
+}
+
+.how-it-works .tiles .tile {
+  padding: 1em;
+}
+
+.curriculum-details .curriculum-details-tile img {
+  height: 160px;
+  width: 160px;
+}
+
+.how-it-works .tiles .tile img {
+  height: 165px;
+}
+
+.success-stories .success-stories-container .success-story .photo img {
+  height: 50px;
+  border-radius: 50%;
+}
+
+.how-it-works .tiles .tile .subtitle {
+  margin: 50px 0 20px;
+}
+
+.curriculum {
+  padding: 60px 0;
+  background: #f3f3f3;
+}
+
+.curriculum .curriculum-title {
+  margin-bottom: 60px;
+  font-weight: bold;
+}
+
+.curriculum-details {
+  margin-left: 8.3333333333%;
+}
+
+.curriculum .curriculum-details .curriculum-details-tile {
+  box-shadow: 0 7px 16px 0 rgba(0, 0, 0, 0.05);
+  background: #fff;
+  height: 256px;
+  margin: 0 30px 30px 0;
+  max-width: 254px;
+  padding: 23px 46px 25px;
+  width: 254px;
+}
+
+.curriculum-details .curriculum-details-tile h4 {
+  margin-top: 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.success-stories {
+  width: 100%;
+}
+
+.gradient {
+  background-image: linear-gradient(to bottom, #fff, #eee);
+}
+
+.success-stories .success-stories-title {
+  width: 100%;
+  padding-top: 70px;
+  letter-spacing: 0.3px;
+  font-weight: bold;
+}
+
+.success-stories .success-stories-container {
+  min-height: 400px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.success-stories .success-stories-container .success-story {
+  padding-bottom: 36px;
+}
+
+.success-stories .success-stories-container .success-story p {
+  width: 40vw;
+}
+
+.success-stories .success-stories-container .success-story .photo {
+  flex-basis: 100px;
+  padding-top: 16px;
+}
+
+.success-stories .success-stories-container .success-story .details {
+  padding: 10px;
+}
+
+.success-stories .success-stories-read-more {
+  width: 100%;
+  padding-top: 30px;
+  font-size: 1rem;
+}
+
+.success-stories .success-stories-read-more a {
+  text-decoration: underline;
+}
+
+.bottom-cta {
+  font-weight: 100;
+  padding: 5em 2.5em;
+}
+
+.bottom-cta__heading {
+  color: rgba(74, 74, 74, 0.7);
+  font-size: 2.2em;
+  line-height: 1.5em;
+  margin: 0 auto 1rem;
+  max-width: 25em;
+}
+
+.bottom-cta__sub-heading {
+  font-weight: normal;
+  margin-bottom: 2.5em;
+}
+
+.accent {
+  color: #ce973e;
 }
 
 @media (min-width: 768px) {
