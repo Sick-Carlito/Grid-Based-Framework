@@ -14,6 +14,12 @@ The Project uses the media query (break-point) with `min-width: 768px`, `min-wid
 
 The grid system was developed using CSS Flex-box properties.
 
+A preview page of The Odin Project website clone using the Grid Framework
+
+#### [Original Website](https://www.theodinproject.com/)
+
+#### [Clone Preview link](https://rawcdn.githack.com/Sick-Carlito/Grid-Based Framework/cd7cf03e713138916a0842ef79d6a10e0f26cd24/docs/index.html)
+
 
 #### Authors
 
