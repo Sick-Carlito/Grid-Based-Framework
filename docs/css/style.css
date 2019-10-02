@@ -94,7 +94,6 @@ h4 {
   border-left: 2px solid rgba(74, 74, 74, 0.7);
 }
 
-
 .footer-social a {
   padding-left: 10px;
   padding-right: 10px;
@@ -304,7 +303,6 @@ h4 {
   text-decoration: none;
   margin: 0;
 }
-
 
 @media (min-width: 768px) {
   .menu-list-item {
