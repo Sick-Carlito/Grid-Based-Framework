@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "Norse";
+  src: url("../assets/fonts/Norse-Bold.otf");
+}
+
+@font-face {
+  font-family: "Open Sans Bold";
+  src: url("../assets/fonts/OpenSans-Bold.woff2");
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Open Sans Light";
+  src: url("../assets/fonts/OpenSans-Light.woff2");
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Open Sans Regular";
+  src: url("../assets/fonts/OpenSans-Regular.woff2");
+  font-style: normal;
+  font-weight: 400;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1.125rem;
+  letter-spacing: 0.2px;
+  font-family: "Open Sans Regular", Helvetica, sans-serif;
+  color: #4a4a4a;
+}
+
+a {
+  text-decoration: none;
+  color: #4a4a4a;
+}
