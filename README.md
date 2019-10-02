@@ -18,8 +18,7 @@ A preview page of The Odin Project website clone using the Grid Framework
 
 #### [Original Website](https://www.theodinproject.com/)
 
-#### [Clone Preview link](https://rawcdn.githack.com/Sick-Carlito/Grid-Based Framework/cd7cf03e713138916a0842ef79d6a10e0f26cd24/docs/index.html)
-
+#### [Clone Preview link](https://raw.githack.com/Sick-Carlito/Grid-Based-Framework/Feature-2/docs/index.html)
 
 #### Authors
 
