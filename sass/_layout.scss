@@ -1,0 +1,38 @@
+.postion-fixed {
+  position: fixed;
+}
+
+.postion-relative {
+  position: relative;
+}
+
+.postion-absolute {
+  position: absolute;
+}
+
+.postion-sticky {
+  position: sticky;
+}
+
+.postion-static {
+  position: static;
+}
+
+$color-white: #fff;
+$color-black: #000;
+
+.text-white {
+  color: $color-white;
+}
+
+.text-black {
+  color: $color-black;
+}
+
+.bg-white {
+  background-color: $color-white;
+}
+
+.bg-black {
+  background-color: $color-black;
+}
